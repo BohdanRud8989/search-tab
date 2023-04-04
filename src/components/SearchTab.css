@@ -1,0 +1,7 @@
+.checkboxGroupWrapper {
+  flex-flow: column nowrap;
+}
+
+.checkboxGroupWrapper .ant-checkbox-group-item {
+  margin-left: 3px;
+}
