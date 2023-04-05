@@ -34,9 +34,7 @@ const StyledSearch = styled(Search)`
 
     &:focus,
     &:focus-visible {
-      outline-width: 3px;
-      outline-style: solid;
-      outline-color: white;
+      box-shadow: none;
     }
 
     &::placeholder {
