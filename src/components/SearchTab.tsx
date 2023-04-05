@@ -39,6 +39,7 @@ const StyledSearch = styled(Search)`
 
     &::placeholder {
       /* Chrome, Firefox, Opera, Safari 10.1+ */
+      font-family: 'Campton';
       font-style: normal;
       font-weight: 475;
       font-size: 16px;
@@ -93,6 +94,7 @@ const StyledCheckboxGroup = styled(CheckboxGroup)`
 
     span:last-of-type {
       padding-left: 0;
+      font-family: 'Campton';
       font-style: normal;
       font-weight: 475;
       font-size: 16px;
@@ -121,6 +123,7 @@ const StyledCheckboxGroup = styled(CheckboxGroup)`
 `;
 
 const StyledSwitchLabel = styled(Text)`
+font-family: 'Campton';
   font-style: normal;
   font-weight: 550;
   font-size: 16px;
@@ -132,7 +135,7 @@ const StyledSwitchLabel = styled(Text)`
 `;
 
 const StyledButtonClearAll = styled(Button)`
-  // font-family: 'Campton';
+  font-family: 'Campton';
   font-style: normal;
   font-weight: 550;
   font-size: 16px;
@@ -155,6 +158,7 @@ const StyledButtonSave = styled(Button)`
   }
 
   .ant-typography {
+  font-family: 'Campton';
     font-style: normal;
     font-weight: 400;
     font-size: 16px;
