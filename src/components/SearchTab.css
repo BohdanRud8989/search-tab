@@ -1,7 +1,7 @@
 @font-face {
   font-family: 'Px Grotesk Light';
   src: local('Px Grotesk Light'),
-  url('./Px-Grotesk-Light.otf') format('opentype');
+  url('../fonts/Px-Grotesk-Light.otf') format('opentype');
   font-display: swap;
 }
 
